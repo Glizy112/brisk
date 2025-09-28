@@ -88,7 +88,7 @@ export default function Home() {
         
         <section id="solution" className="flex flex-col mt-16 mx-20 items-center">
           <span>
-            <h3 className="text-4xl text-black font-normal"> Solution you just might need </h3>
+            <h3 className="text-4xl text-black font-bold"> Solution you just might need </h3>
             <div id="dot" className="w-1 h-1 bg-[#949494] rounded-full ml-1"/>
           </span>
           <div className="flex flex-col items-center gap-8 mt-5">

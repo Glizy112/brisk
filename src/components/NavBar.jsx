@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 function Navbar(props) {
   return (
-    <div className='w-[100vw] flex flex-row px-20 pt-12 items-center justify-between'>
+    <div className='w-full flex flex-row px-20 pt-12 items-center justify-between'>
         <Image src="/logo.svg" width={175} height={92} alt="logo"/>
         <nav>
             <ul className='flex flex-row items-center'>
